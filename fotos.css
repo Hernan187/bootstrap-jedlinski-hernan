@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.grid {
+    margin: 100px;
+    padding: 10px;
+}
+
+.grid img {
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+}
